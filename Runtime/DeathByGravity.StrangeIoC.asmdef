@@ -2,7 +2,7 @@
     "name": "DeathByGravity.StrangeIoC",
     "rootNamespace": "",
     "references": [
-        "GUID:f31b8cfe1f09445ff863927569bad0df"
+        "DeathByGravity.UniRx"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
