@@ -8,5 +8,8 @@
     "email": "contact@deathbygravitystudio.com",
     "url": "https://deathbygravitystudio.com"
   },
-  "keywords": [ "unity", "ioc" ]  
+  "keywords": [ "unity", "ioc" ],
+  "dependencies": {
+    "com.deathbygravitystudio.unirx": "https://github.com/denchi/UniRx.git"
+  }
 }
