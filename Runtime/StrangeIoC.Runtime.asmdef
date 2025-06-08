@@ -1,3 +1,4 @@
 {
-	"name": "StrangeIoC.Runtime"
+	"name": "StrangeIoC.Runtime",
+	"references":[ "GUID:2c055d0825db04712a3d3477f3b543d8" ]
 }
