@@ -1,0 +1,12 @@
+{
+  "name": "com.deathbygravitystudio.strangeioc",
+  "version": "0.1.0",
+  "displayName": "StrangeIoC",
+  "description": "A Unity package that enables using Strange IoC",
+  "author": {
+    "name": "Death By Gravity Studio",
+    "email": "contact@deathbygravitystudio.com",
+    "url": "https://deathbygravitystudio.com"
+  },
+  "keywords": [ "unity", "ioc" ]  
+}
