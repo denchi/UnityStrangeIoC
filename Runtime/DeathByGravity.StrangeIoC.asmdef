@@ -1,0 +1,16 @@
+{
+    "name": "DeathByGravity.StrangeIoC",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f31b8cfe1f09445ff863927569bad0df"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
